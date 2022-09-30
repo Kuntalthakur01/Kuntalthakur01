@@ -1,7 +1,9 @@
 # 💫 About Me:
+<img  width="400" align="right" src="https://miro.medium.com/max/1400/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif" >
+
 👨‍💻   I'm Kuntal,  a 3rd year engineering student <br><br>🚀<interest>ML, DL <interest><br> <br>🌱 I’m currently learning DSA and deep learning<br><br>⚡ Fun fact: I use tabs over spaces<br>
 
-
+ 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/kuntalthakur01official) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Kuntalthakur12) 
 
@@ -15,8 +17,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Kuntalthakur01&icon=0&color=0)](https://visitcount.itsvg.in)
