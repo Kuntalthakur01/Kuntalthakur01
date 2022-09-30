@@ -83,7 +83,7 @@
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=Kuntalthakur01&show_icons=true&count_private=true&hide_border=true" align="center" />  
+<img src="https://github-readme-stats.vercel.app/api?username=Kuntalthakur01&show_icons=true&count_private=true&hide_border=true" align="right" />  
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuntalthakur01&hide_border=true&layout=compact" align="center" /></div>  
 
@@ -110,4 +110,4 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
