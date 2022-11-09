@@ -1,7 +1,7 @@
 # 💫 About Me:
 <img  width="400" align="right" src="https://miro.medium.com/max/1400/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif" >
 
-👨‍💻   I'm Kuntal, \n a 3rd year engineering student <br><br>🚀<interest>ML, DL <interest><br> <br>🌱 I’m currently learning DSA and deep learning<br><br>⚡ Fun fact: I use tabs over spaces<br>
+👨‍💻   I'm Kuntal,  a 3rd year engineering student <br><br>🚀<interest>ML, DL <interest><br> <br>🌱 I’m currently learning DSA and deep learning<br><br>⚡ Fun fact: I use tabs over spaces<br>
 
  
 ## 🌐 Socials:
