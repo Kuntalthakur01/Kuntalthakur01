@@ -1,5 +1,5 @@
 # 💫 About Me:
-<img  width="400" align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2sEaoi2b6rs3GpNvsPV16e&ust=1668059132616000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCMiNvtKyoPsCFQAAAAAdAAAAABAX" >
+<img  width="400" align="right" src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966" >
 
 👨‍💻   I'm Kuntal,  a 3rd year engineering student <br><br>🚀<interest>ML, DL <interest><br> <br>🌱 I’m currently learning DSA and Deep learning<br><br>⚡ Fun fact: I use tabs over spaces<br>
 
