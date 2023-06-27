@@ -1,7 +1,7 @@
 # 💫 About Me:
 <img  width="400" align="right" src="https://media.giphy.com/media/EruZaPOld5NDhql2nX/giphy.gif" >
 
-👨‍💻   I'm Kuntal,  a 4th year engineering student <br><br>🚀<interest> i have interest in  ML, DL and to view my projects make sure to check my pinned projects below  <interest><br> <br>🌱 I’m currently learning DSA and NLP <br><br>⚡ Fun fact: I use tabs over spaces<br>
+👨‍💻   I'm Kuntal,  a 4th year engineering student <br><br>🚀<interest> I have interest in  ML, DL and to view my projects make sure to check my pinned projects below  <interest><br> <br>🌱 I’m currently learning DSA and NLP <br><br>⚡ Fun fact: I use tabs over spaces<br>
 
  
 ## 🌐 Socials:
